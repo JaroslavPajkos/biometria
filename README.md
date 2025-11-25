@@ -88,7 +88,7 @@ NASTAVENIA MIKROFONU VO WINDOWS
 -------------------------------
 Ak ma system problem s nahravanim:
 
-1. Otevri:
+1. Otvor:
        Ovladaeci panel -> Zvuk -> Zaznam
 2. Nastav predvoleny mikrofon na:
        16000 Hz, Mono
